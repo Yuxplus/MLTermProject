@@ -1,2 +1,2 @@
 # MLTermProject
- Machine Learning Supervised & Unsupervised Learning Term Project
+ Machine Learning Supervised & Unsupervised Learning Models Term Project
